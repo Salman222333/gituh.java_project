@@ -2,10 +2,8 @@
 <html>
 <head>...</head>
 <body>
-    let elements = document.getElementsByName('cssProperty');
-
+    let elements = document.getElementsByName('cssProperty')
 let div = document.getElementById('modify');
-
 function set()
 {
     
